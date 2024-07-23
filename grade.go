@@ -5,21 +5,7 @@ import (
 )
 
 func main() {
-
-	// num1 := 85
-
-	// num2 := 100
-
 	var num1 int
-	// var num2 int
-	// var num3 = 70
-	// var num4 = 84
-	// var num5 = 55
-	// var num6 = 69
-	// var num7 = 40
-	// var num8 = 50
-	// var num9 = 0
-	// var num10 = 39
 
 	fmt.Println("Inset number: ")
 	fmt.Scan(&num1)
